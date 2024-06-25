@@ -1,0 +1,21 @@
+{
+	"base":{
+		1:{
+			"path":"base/base.html",
+			"version":1
+		}
+	},
+	"header":{
+		1:{
+			"path":"header/header.html",
+			"version":1
+		}
+	},
+	"content":{
+		"content":{
+			1:{
+				"path":"content/content/content.html"
+			}
+		}
+	}
+}
