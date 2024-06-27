@@ -1,5 +1,5 @@
 {
-	"base_server": "https://raw.githubusercontent.com/staykimin/Flask-J2S/master/",
+	"base_server": "https://raw.githubusercontent.com/staykimin/Flask-J2S/master/Base_Template/",
 	"data": {
 		"base": {
 			"kimin": {
