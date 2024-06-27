@@ -16,12 +16,10 @@
             }
         },
         "content": {
-            "content": {
-                "1": {
-                    "path": "content/content/content.html",
-                    "version": 1,
-                    "author": "Kimin"
-                }
+            "1": {
+                "path": "content/content/content.html",
+                "version": 1,
+                "author": "Kimin"
             }
         }
     }
