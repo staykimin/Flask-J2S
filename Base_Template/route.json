@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"base_server": "https://raw.githubusercontent.com/staykimin/Flask-J2S/master/",
 	"data": {
 		"base": {
@@ -31,30 +30,3 @@
 		}
 	}
 }
-=======
-    "base_server": "https://raw.githubusercontent.com/staykimin/Flask-J2S/master/",
-    "data": {
-        "base": {
-            "1": {
-                "path": "base/base.html",
-                "version": 1,
-                "author": "Kimin"
-            }
-        },
-        "header": {
-            "1": {
-                "path": "header/header.html",
-                "version": 1,
-                "author": "Kimin"
-            }
-        },
-        "content": {
-            "1": {
-                "path": "content/content.html",
-                "version": 1,
-                "author": "Kimin"
-            }
-        }
-    }
-}
->>>>>>> 67c3e53643c578e151b06e8833b432ddeae02f6c
