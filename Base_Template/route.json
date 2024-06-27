@@ -2,19 +2,23 @@
 	"base":{
 		1:{
 			"path":"base/base.html",
-			"version":1
+			"version":1,
+			"author":"Kimin"
 		}
 	},
 	"header":{
 		1:{
 			"path":"header/header.html",
-			"version":1
+			"version":1,
+			"author":"Kimin"
 		}
 	},
 	"content":{
 		"content":{
 			1:{
-				"path":"content/content/content.html"
+				"path":"content/content/content.html",
+				"version":1,
+				"author":"Kimin"
 			}
 		}
 	}
